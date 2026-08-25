@@ -1,0 +1,5 @@
+Dimension,Result,Owner,Action Required
+Completeness,FAIL,Data Steward,"Investigate missing values, enforce mandatory entry"
+Uniqueness,FAIL,Ops Manager,Deduplicate and strengthen order ID generation
+Validity,FAIL,Data Quality Lead,Correct invalid dates/quantities/discounts
+Freshness,FAIL,Ops Manager,"Check ingestion schedule, refresh pipeline"
